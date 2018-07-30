@@ -1,2 +1,2 @@
-## [v0.0.1]() [..](..) [me]()
+## [v0.0.2](https://github.com/littleflute/AS-IT-IS/edit/master/files/2018/july/readme.md) [..](..) [me]()
 ## [28](28)
