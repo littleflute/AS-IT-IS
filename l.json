@@ -1,14 +1,14 @@
-{
+﻿{
     "songData": [
         {
-            "albumName": "F.A.USA 01",
+            "albumName": "VOA: AS IT IS",
             "albumCoverMax": "https://littleflute.github.io/Family-Album-USA/index.jpg",
             "albumSong": [
                 {
-                    "musicName": "u0101",
-                    "musicSinger": "F.A.USA",
-                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0101.mp3",
-                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0101.lrc",
+                    "musicName": "AS IT IS/2019/07/21",
+                    "musicSinger": "VOA",
+                    "musicLink": "https://littleflute.github.io/AS-IT-IS/files/2019/07/21/who-listens-to-google-assistant-recordings-.mp3",
+                    "lyricsLink": "https://littleflute.github.io/AS-IT-IS/files/2019/07/21/1.lrc",
                     "musicTime": "01:12",
                     "albumCoverMin": "https://littleflute.github.io/Family-Album-USA/i.jpg"
                 },
