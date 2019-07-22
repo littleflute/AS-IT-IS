@@ -1,0 +1,173 @@
+{
+    "songData": [
+        {
+            "albumName": "F.A.USA 01",
+            "albumCoverMax": "https://littleflute.github.io/Family-Album-USA/index.jpg",
+            "albumSong": [
+                {
+                    "musicName": "u0101",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0101.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0101.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/Family-Album-USA/i.jpg"
+                },
+                {
+                    "musicName": "u0102",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0102.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0102.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/Family-Album-USA/i.jpg"
+                },
+                {
+                    "musicName": "u0201",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0201.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0201.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/Family-Album-USA/i.jpg"
+                },
+                {
+                    "musicName": "u0104",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0104.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0104.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
+                },
+                {
+                    "musicName": "u0105",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0105.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0105.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
+                },
+                {
+                    "musicName": "u0106",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0106.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0106.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
+                },
+                {
+                    "musicName": "u0107",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0107.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0107.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
+                },
+                {
+                    "musicName": "u0108",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0108.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0108.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
+                },
+                {
+                    "musicName": "u0109",
+                    "musicSinger": "F.A.USA",
+                    "musicLink": "https://littleflute.github.io/Family-Album-USA/files/u0109.mp3",
+                    "lyricsLink": "https://littleflute.github.io/Family-Album-USA/files/u0109.lrc",
+                    "musicTime": "01:12",
+                    "albumCoverMin": "https://littleflute.github.io/i.jpg"
+                },
+                {
+                    "musicName": "10 Cry Baby.mp3)",
+                    "musicSinger": "10",
+                    "musicLink": "10 Cry Baby.mp3",
+                    "lyricsLink": "lyrics/10.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                }
+            ]
+        },
+        {
+            "albumName": "Glass Cloud",
+            "albumCoverMax": "albumCover/max/Maria.jpg",
+            "albumSong": [
+                {
+                    "musicName": "梦见铁达尼",
+                    "musicSinger": "张惠妹",
+                    "musicLink": "music/mjtdn.ogg",
+                    "lyricsLink": "lyrics/mjtdn.lrc",
+                    "musicTime": "04:36",
+                    "albumCoverMin": "albumCover/min/Maria.jpg"
+                },
+                {
+                    "musicName": "很难",
+                    "musicSinger": "张震岳",
+                    "musicLink": "music/hn.ogg",
+                    "lyricsLink": "lyrics/hn.lrc",
+                    "musicTime": "04:18",
+                    "albumCoverMin": "albumCover/min/Maria.jpg"
+                }
+            ]
+        },
+        {
+            "albumName": "Pearl Harbor",
+            "albumCoverMax": "albumCover/max/zzg.jpg",
+            "albumSong": [
+                {
+                    "musicName": "There You'll Be",
+                    "musicSinger": "Faith Hill",
+                    "musicLink": "music/There_You'll_Be.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "03:41",
+                    "albumCoverMin": "albumCover/min/zzg.jpg"
+                },
+                {
+                    "musicName": "Tennessee",
+                    "musicSinger": "Faith Hill",
+                    "musicLink": "music/tennessee.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "03:40",
+                    "albumCoverMin": "albumCover/min/zzg.jpg"
+                },
+                {
+                    "musicName": "Brothers",
+                    "musicSinger": "Faith Hill",
+                    "musicLink": "music/Brothers.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "04:04",
+                    "albumCoverMin": "albumCover/min/zzg.jpg"
+                },
+                {
+                    "musicName": "And Then I Kissed Him",
+                    "musicSinger": "Faith Hill",
+                    "musicLink": "music/And_Then_I_Kissed_Him.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "05:36",
+                    "albumCoverMin": "albumCover/min/zzg.jpg"
+                }
+            ]
+        },
+        {
+            "albumName": "Missy Higgins",
+            "albumCoverMax": "albumCover/max/Vincent.jpg",
+            "albumSong": [
+                {
+                    "musicName": "Maria",
+                    "musicSinger": "Faith Hill",
+                    "musicLink": "music/Maria.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "02:06",
+                    "albumCoverMin": "albumCover/min/Vincent.jpg"
+                },
+                {
+                    "musicName": "Vincent",
+                    "musicSinger": "roberto vecchioni",
+                    "musicLink": "music/Vincent.ogg",
+                    "lyricsLink": "",
+                    "musicTime": "03:07",
+                    "albumCoverMin": "albumCover/min/Vincent.jpg"
+                }
+            ]
+        }
+    ],
+    "songNum": 13
+}
