@@ -1,5 +1,7 @@
 var blb = bl$("blPlx");
-blb.innerHTML = "[blPlx_v0.111]";
+var bld = bl$("id_div_4_plx");
+bld.innerHTML = "<a href='..'>[..]</a>";
+blb.innerHTML = "[blPlx_v0.114]";
 blb.onclick = function(){
     if(!this.md){
         this.md = blo0.blMD("blMD","blMD",550,50,555,100,blGrey[0]);
@@ -18,8 +20,8 @@ function CPlx (p){
     var n = 0;
     var _d = blo0.blDiv(p,p.id+"_d","_d :" ,blGrey[1]);
     var tb = blo0.blDiv(_d,_d.id+"tb","tb :" ,blGrey[2]);
-    var mv = blo0.blDiv(_d,_d.id+"mv","mv :" ,blGrey[3]);
-    var mm = blo0.blDiv(_d,_d.id+"mm","mm :" ,blGrey[3]); 
+    var mv = blo0.blDiv(_d,"id_div_4_mv","mv :" ,blGrey[3]);
+    var mm = blo0.blDiv(_d,"id_div_4_mm","mm :" ,blGrey[3]); 
     var mt = blo0.blDiv(_d,_d.id+"mt","mt:" ,blGrey[4]); 
     mt.ta = blo0.blTextarea(mt,mt.id+"ta","ta",blGrey[0]);
     mt.ta.style.width= 100 + "%";
@@ -74,6 +76,22 @@ function CPlx (p){
     mt.btnSetText = blo0.blBtn(mt,mt.id+"btnSetText","SetText",blGrey[3]);
     mt.btnSetText.onclick = function(){
         mv.markList[mv.curSel].txt = mt.ta.value; 
+    }
+
+    
+    tb.btnLoadT1 = blo0.blBtn(tb,tb.id+"btnLoadT1","t1",blGrey[3]);
+    tb.btnLoadT1.onclick = function(){
+        mt.ta.value = JSON.stringify(t1);
+    }
+    tb.btnMakeT1 = blo0.blBtn(tb,tb.id+"btnMakeT1","make-t1",blGrey[3]);
+    tb.btnMakeT1.onclick = function(){
+        t1 = {};
+        t1.listT = [];
+        t1.listTxt = [];
+        for(i in mv.markList){
+            t1.listT.push(mv.markList[i].t);          
+            t1.listTxt.push(mv.markList[i].txt);               
+        }
     }
 
 
