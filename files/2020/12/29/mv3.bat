@@ -1,0 +1,1 @@
+ffmpeg -i %1 -i %2 -i %3 -map 0:v -map 0:a -map 1 -map 2 -c:v copy -c:a copy -c:s srt -metadata:s:s:0 language=eng -metadata:s:s:1 language=ger %4
